@@ -1,11 +1,3 @@
-# fresh project
+# Resume
 
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+My public resume for https://resume.olivermakesco.de
