@@ -38,13 +38,20 @@ a:hover {
     text-align: center;
 }
 
+.footer_container {
+    position: sticky;
+    bottom: 0;
+    width: 100vw;
+    justify-content: right;
+    right: 0;
+}
 .footer {
-    position: fixed;
+    position: relative;
     right: 0;
     bottom: 0;
     background-color: var(--header-background);
     border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
+    width: fit-content;
 }
 .footer h2 {
     padding: 10px 10px 10px 10px;
@@ -54,22 +61,15 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     overflow-x: hidden;
+    justify-content: center;
     margin-bottom: calc(1.5em + 25px);
+    margin: 5px;
 }
 
 .module {
-    flex: 1 0 45%;
-    width: calc(50vw - 10px);
+    flex: 0 0 300px;
+    height: min(auto, 200px);
     margin: 5px;
-    height: 200px;
     border-radius: 25px;
     background-color: var(--module-background);
-}
-
-@media screen and (max-width: 550px) {
-    .module {
-        margin-left: 0;
-        margin-right: 0;
-        flex: 1 0 100%;
-    }
 }
