@@ -9,8 +9,10 @@ export default function Root(props: {children?: JSX.Element[]|VNode<any>, header
             <div class="header">
                 <h1 class="text-center">{props.header}</h1>
             </div>
-            <div class="content">
-                {props.children}
+            <div class="content_container">
+                <div class="content">
+                    {props.children}
+                </div>
             </div>
         </Fragment>
     )
