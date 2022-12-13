@@ -13,10 +13,6 @@
     color: var(--font-color)
 }
 
-html, body {
-    height: 100%;
-}
-
 .header {
     position: sticky;
     top: 0;
@@ -31,6 +27,12 @@ html, body {
     padding-bottom: 5px;
 }
 
+hr {
+    width: 50%;
+    background-color: var(--font-color);
+    margin: auto;
+}
+
 a {
     color: var(--link-color);
 }
@@ -42,27 +44,6 @@ a:hover {
     text-align: center;
 }
 
-.footer_container {
-    position: sticky;
-    bottom: 0; 
-    width: 100%;
-    justify-content: right;
-}
-.footer {
-    position: relative;
-    background-color: var(--header-background);
-    border-top-right-radius: 25px;
-    width: max-content;
-    justify-content: right;
-}
-.footer h2 {
-    padding: 10px 10px 10px 10px;
-}
-
-
-.content_container {
-    min-height: 100%
-}
 .content {
     display: flex;
     flex-wrap: wrap;

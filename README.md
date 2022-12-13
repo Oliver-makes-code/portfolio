@@ -1,3 +1,3 @@
-# Resume
+# Portfolio
 
-My public resume for https://resume.olivermakesco.de
+My public portfolio for https://portfolio.olivermakesco.de
