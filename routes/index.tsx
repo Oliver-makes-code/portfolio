@@ -16,6 +16,10 @@ export default function f() {
                     <h3 class="text-center">I mainly develop using JavaScript, TypeScript, Rust, Java, and Kotlin</h3>
                 </Module>
                 <Module>
+                    <h1 class="text-center">Some <a href="/technologies">technologies</a> I know!</h1>
+                    <h2 class="text-center">I know a bit more than just those, and I can learn new ones quickly.</h2>
+                </Module>
+                <Module>
                     <h1 class="text-center">Check out my <a href="/experience">work experience</a></h1>
                 </Module>
                 <Module>
