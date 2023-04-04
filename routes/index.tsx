@@ -12,7 +12,7 @@ export default function f() {
             }>
                 <Module>
                     <h1 class="text-center">Hello! I'm Oliver</h1>
-                    <h3 class="text-center">I'm a 18 year old programmer, and I have been programming since 2015</h3>
+                    <h3 class="text-center">I'm a 18 year old programmer, and I have been programming since 2017</h3>
                     <h3 class="text-center">I mainly develop using JavaScript, TypeScript, Rust, Java, and Kotlin</h3>
                 </Module>
                 <Module>
