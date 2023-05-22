@@ -12,7 +12,7 @@ export default function f() {
             }>
                 <Module>
                     <h1 class="text-center">High School</h1>
-                    <h2 class="text-center">I am currently on my fourth year of high school.</h2>
+                    <h2 class="text-center">I'm newly out of High School and am looking for something to take up free-time</h2>
                 </Module>
             </Root>
         </Fragment>
