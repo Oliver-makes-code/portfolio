@@ -26,7 +26,15 @@ export default function f() {
                         <a href="https://kotlinlang.org/">Kotlin</a>
                     </h1>
                     <h2 class="text-center">
-                        "A modern programming language that makes developers happier." - JetBrains (Kotlin maintainers)
+                        "A modern programming language that makes developers happier." - JetBrains
+                    </h2>
+                </Module>
+                <Module>
+                    <h1 class="text-center">
+                        <a href="https://www.rust-lang.org">Rust</a>
+                    </h1>
+                    <h2 class="text-center">
+                        "A language empowering everyone to build reliable and efficient software." - Rust Maintainers
                     </h2>
                 </Module>
                 <Module>
